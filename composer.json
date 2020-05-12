@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^2.5",
+        "phpoffice/phppresentation": "^0.9.0",
+        "monolog/monolog": "^1.23"
+    }
+}
